@@ -1,0 +1,4 @@
+Student name: Biniam Mehari Tedros
+Student number: 659495
+Student class: IT1A
+URL student GitHub repository: https://github.com/B-student/Biniam-Mehari-Tedros-659495-IT1a--.git
